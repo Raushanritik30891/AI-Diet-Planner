@@ -1,6 +1,6 @@
 /* AI Diet Planner — frontend/script.js */
 
-const API = 'http://localhost:5000/predict';
+const API = 'https://ai-diet-planner-rp4u.onrender.com/';
 
 // ─── State ────────────────────────────────────────────────────────────────────
 let selectedGender = 'Male';
