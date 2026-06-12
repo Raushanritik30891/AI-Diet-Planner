@@ -1,15 +1,22 @@
-# 🥗 AI Diet Planner — ML-Powered Personalized Nutrition System
+# 🥗 AI Diet Planner
 
-![AI Diet Planner Hero](attachment\:image)
-
-> **Predict personalized daily calorie requirements using Machine Learning and generate goal-based nutrition recommendations in seconds.**
-
----
+> ML-powered personalized nutrition system that predicts daily calorie requirements and generates goal-based diet recommendations.
 
 ## 🚀 Live Demo
 
-🌐 **Live Application:**
-[AI Diet Planner Live Demo](https://ai-diet-planner-98130aea9-raushanritik30891s-projects.vercel.app/?utm_source=chatgpt.com)
+🌐 https://ai-diet-planner-98130aea9-raushanritik30891s-projects.vercel.app/
+
+---
+
+## 📸 Application Preview
+
+### Landing Page
+
+![AI Diet Planner Landing Page](frontend/Screenshot 2026-06-12 165448.png)
+
+### Prediction Dashboard
+
+![Prediction Results](frontend/Screenshot 2026-06-12 165949.png)
 
 ---
 
